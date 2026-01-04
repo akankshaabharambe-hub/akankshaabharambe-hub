@@ -1,12 +1,12 @@
 ## Hi, I’m Akanksha 👋
 
-MS in Information Management @ University of Illinois at Urbana Champaign.
+Currently pursuing MS in Information Management @ University of Illinois at Urbana Champaign.
 I build production-grade software systems, data pipelines, and applied ML solutions
 across healthcare, enterprise platforms, and manufacturing environments.
 
 🏢 Experience Snapshot:
-- Siemens Healthineers — Healthcare imaging systems
-- Siemens Digital Industries Software — Enterprise platforms & data systems
+- Siemens Healthineers - Healthcare imaging systems
+- Siemens Digital Industries Software - Enterprise platforms & data systems
 
 🔧 Interests:
 - Software & Systems Engineering (C++, backend, distributed systems)
